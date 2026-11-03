@@ -19,4 +19,4 @@ Los cambios permanecen en memoria y se reinician al recargar.
 - Delete: eliminación confirmada.
 ## Validación
 pnpm lint
-pnpm build
+pnpm build  
